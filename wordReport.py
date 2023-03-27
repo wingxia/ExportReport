@@ -99,7 +99,7 @@ class Report:
 
         data_dic = {
             '项目名称': 'XXX集团',
-            '测试单位': 'zc',
+            '测试单位': 'Potato',
             '大图标': InlineImage(self.doc, './img/logo.png', height=Mm(20)),
             '小图标': InlineImage(self.doc, './img/logo.png', height=Mm(7.3)),
             '密级': '商业保密',
